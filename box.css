@@ -1,0 +1,16 @@
+div {
+    background-color: black;
+    height: 200px;
+    width: 300px;
+    margin-left: 600px;
+    margin-top: 200px;
+    /* we can also apply padding top and padding left so on  */
+    padding: 20px;
+    /* we can apply border style seperatly */
+    border: 10px cornflowerblue dotted;
+    border-radius: 50px;
+}
+
+p {
+    color: aliceblue;
+}
